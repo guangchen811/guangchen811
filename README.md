@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats </h3>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">Please reach out to me by:</h3>
+<h3 align="left">Please reach out to me by</h3>
 
 ###
 
