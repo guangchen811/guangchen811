@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Here is Hao Chen@guangchen811.<br><br>- 🔭 I’m working as an intern  at MSRA.<br>- 📚 I'm currently exploring the combination of LLM and KG.</p>
+<p align="left">Here is Hao Chen@guangchen811.<br><br>- 📚 I'm currently exploring the combination of LLM and KG.</p>
 
 ###
 
