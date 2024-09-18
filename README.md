@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Here is Hao Chen@guangchen811.<br><br>- 📚 I'm currently exploring the combination of LLM and KG.</p>
+<p align="left">Here is Hao Chen@guangchen811.<br><br>- 📚 I'm currently doing research about data validation for tabular and structured data.</p>
 
 ###
 
