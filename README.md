@@ -2,11 +2,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me</h3>
 
 ###
 
-<p align="left">Here is Hao Chen@guangchen811.<br><br>- 📚 I'm currently doing research about data validation for tabular and structured data.</p>
+<p align="left">
+  I am Hao Chen, a Ph.D. student at <a href="https://www.bifold.berlin/">BIFOLD</a> and <a href="https://www.tu.berlin/">TU Berlin</a>, supervised by Prof. Sebastian Schelter. <br>
+  I’m currently researching data validation techniques for tabular and structured data. Previously, my work focused on heterogeneous graph neural networks for recommender systems and leveraging large language models for graph analytics.
+</p>
 
 ###
 
@@ -20,9 +23,7 @@
   <br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guangchen811&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="300" alt="languages graph"  />
-  <br>
 
-  <img src="https://streak-stats.demolab.com?user=guangchen811&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="300" alt="streak graph"  />
 </div>
 
 ###
