@@ -39,8 +39,6 @@
   <a href="guangchen811@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-
-https://tu-berlin.zoom-x.de/j/3164917415?pwd=UDhq9KNLS5OQdbl37Tkz0O5EkC0eLZ.1
 </div>
 
 ###
